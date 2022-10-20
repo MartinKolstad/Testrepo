@@ -85,6 +85,7 @@ print(f"Landet med høyest befolkningstetthet er {begge[htland].navn}")
 print(f"Dette landet har befolkningstetthet på: {hoyesttetthet:6.2f}")
 
 #Legger på en kommentar til slutt
+#Legger på en kommentar til
 
 
 
