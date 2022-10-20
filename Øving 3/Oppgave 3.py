@@ -7,6 +7,10 @@ Created on Fri Sep  2 08:54:59 2022
 
 import random
 
+print("Velkommen til gameshow(som jeg ikke husker navnet på)")
+print ("Her kan du teste ut ulike strategier for å vinne")
+print("(Det er jo alltid kjekt)")
+
 
 strategi1=0
 strategi2=0
